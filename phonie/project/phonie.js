@@ -81,5 +81,5 @@ document.getElementById("form").onsubmit = (e) => {
     }
   }else
   result.textContent = "Input valid number";
-  img.setAttribute("src", "nn");
+  // img.setAttribute("src", "nn");
 };
